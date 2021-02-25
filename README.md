@@ -8,7 +8,11 @@ Once completing the analysis one was able to create a visualization of the diffe
 - Suburban cities had the second highest.
 - Rural cities had the least percentage of total rides, total drivers, and total fares.
 
-Fig5.png
+![alt text](https://github.com/allison-chavez/PyBer_Analysis/blob/main/Resources/Fig5.png)
+![alt text](https://github.com/allison-chavez/PyBer_Analysis/blob/main/Resources/Fig6.png)
+![alt text](https://github.com/allison-chavez/PyBer_Analysis/blob/main/Resources/Fig7.png)
+![alt text](https://github.com/allison-chavez/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
+
 The causes of this can be noted as:
 - the cost of fares being cheaper in Urban vs. Rural areas.
 - there are more drivers in Urban areas therefore more accessibilty and cheaper fares.
