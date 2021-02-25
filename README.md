@@ -6,7 +6,9 @@ The purpose of the PyBer Analysis Challenge was to create a visualization of the
 Once completing the analysis one was able to create a visualization of the differences and relations between Pyber data depending on city type.
 - Urban cities had the highest percentage of total rides, total drivers, and total fares. 
 - Suburban cities had the second highest.
-- Rural cities had the least percent of total rides, total drivers, and total fares.
+- Rural cities had the least percentage of total rides, total drivers, and total fares.
+
+Fig5.png
 The causes of this can be noted as:
 - the cost of fares being cheaper in Urban vs. Rural areas.
 - there are more drivers in Urban areas therefore more accessibilty and cheaper fares.
