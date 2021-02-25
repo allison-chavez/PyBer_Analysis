@@ -17,6 +17,12 @@ The causes of this can be noted as:
 - the cost of fares being cheaper in Urban vs. Rural areas.
 - there are more drivers in Urban areas therefore more accessibilty and cheaper fares.
 
+```
+
+pyber_summary_df
+
+```
+
 ## Summary
 The analysis has provided essential data in order for PyBer to help the disparities that Rural communities face. While Urban cities are succeeding there are reccomendations from the data gathered that can help all city types see similar success.
 - Increase the amount of drivers to in suburban and rural communities, therefore there can be more public awareness of PyBer as a community resources.
