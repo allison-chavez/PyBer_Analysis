@@ -17,18 +17,6 @@ The causes of this can be noted as:
 - the cost of fares being cheaper in Urban vs. Rural areas.
 - there are more drivers in Urban areas therefore more accessibilty and cheaper fares.
 
-```
-pyber_summary_df = pd.DataFrame({
-    "Total Rides": city_ride_count.map("{:,}".format),
-    "Total Drivers": city_driver_count.map("{:,}".format),
-    "Total Fares": city_fares.map("${:,.2f}".format),
-    "Average Fare per Ride": avg_ride_fare.map("${:,.2f}".format),
-    "Average Fare per Driver": avg_driver_fare.map("${:,.2f}".format),
-})
-
-pyber_summary_df
-
-```
 
 ## Summary
 The analysis has provided essential data in order for PyBer to help the disparities that Rural communities face. While Urban cities are succeeding there are reccomendations from the data gathered that can help all city types see similar success.
