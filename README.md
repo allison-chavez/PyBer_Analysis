@@ -18,6 +18,13 @@ The causes of this can be noted as:
 - there are more drivers in Urban areas therefore more accessibilty and cheaper fares.
 
 ```
+pyber_summary_df = pd.DataFrame({
+    "Total Rides": city_ride_count.map("{:,}".format),
+    "Total Drivers": city_driver_count.map("{:,}".format),
+    "Total Fares": city_fares.map("${:,.2f}".format),
+    "Average Fare per Ride": avg_ride_fare.map("${:,.2f}".format),
+    "Average Fare per Driver": avg_driver_fare.map("${:,.2f}".format),
+})
 
 pyber_summary_df
 
